@@ -2,7 +2,7 @@
 
 I'm a Software Developer freshly graduated from Northumbria University 😅
 
-I enjoy [Laravel](https://github.com/laravel/laravel), dabble in Python and mess around with Javascript frameworks 🫠 (Shoutout to [Astro](https://github.com/withastro/astro))
+I enjoy [Laravel](https://github.com/laravel/laravel), dabble in Python and mess around with web frameworks 🫠 (Shoutout to [Astro](https://github.com/withastro/astro))
 
 I'm working on releasing some of my work on public repositories (*after refractoring*), so hopefully the green activity squares stonks go up 📈
 
